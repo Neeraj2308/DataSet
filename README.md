@@ -1,6 +1,6 @@
 # DataSet
 
-#### 1. File: 59753_1_120_20210626_181227_dat.txt
+#### 1. File: price.csv
 **Source: Prowess**
 
 **Variables info:**
